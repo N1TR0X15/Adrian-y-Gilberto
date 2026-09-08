@@ -1,15 +1,10 @@
-Código base: 
+java
 
-PerfilEstudianteUTP.java 
-
-/* 
-
- * TODO 1 (NIVEL 2 - Javadoc): Convierte este comentario de bloque a un comentario Javadoc oficial (/** ... */) 
-
- * Incluye las etiquetas @author (adrianVillarreal 810441398 / gilbertoJones 8802346) y @version 1.0)/*
- 
- */ 
-
+/**
+* @author Adrian Villarreal - 8-1044-1398
+* @author Gilberto Jones - 8-802-346
+* @version 1.0
+*/
 public class PerfilEstudianteUTP { 
 
  
