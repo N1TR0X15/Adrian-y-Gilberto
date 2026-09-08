@@ -100,7 +100,7 @@ public class PerfilEstudianteUTP {
 
         System.out.println("=========================================="); 
 
-        System.out.println("    FICHA DE MATRÍCULA ESTUDIANTIL UTP"); 
+        System.out.println("    FICHA DE MATRÍCULA ESTUDIANTIL UTP");
 
         System.out.println("=========================================="); 
 
