@@ -6,7 +6,7 @@ PerfilEstudianteUTP.java
 
  * TODO 1 (NIVEL 2 - Javadoc): Convierte este comentario de bloque a un comentario Javadoc oficial (/** ... */) 
 
- * Incluye las etiquetas @author (adrianVillarreal_8-1044-1398 / gilbertoJones_8-802-346 ) y @version 1.0
+ * Incluye las etiquetas @author (adrianVillarreal 8-1044-1398 / gilbertoJones 8-802-346 ) y @version 1.0
 
  */ 
 
