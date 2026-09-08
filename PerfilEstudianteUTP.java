@@ -1,10 +1,9 @@
-java
 
-/**
+
+
 * @author Adrian Villarreal - 8-1044-1398
 * @author Gilberto Jones - 8-802-346
 * @version 1.0
-*/
 public class PerfilEstudianteUTP { 
 
  
