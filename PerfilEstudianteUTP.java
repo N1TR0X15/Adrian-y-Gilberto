@@ -28,7 +28,7 @@ public class PerfilEstudianteUTP {
 
         // TODO 2.1: Corrige este identificador ilegal (inicia con un número) a camelCase 
 
-        String 1erNombre = "adrianVillarreal / gilbertoJones"; 
+        String primerNombre = "adrianVillarreal / gilbertoJones"; 
 
  
 
